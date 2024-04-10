@@ -117,7 +117,7 @@ Functionality
 + users can add new themes to the folder themselves
 
 
-[libraries]
+[collection]
 + a URL to a github repository (any git server/URL)
 + JSON file contains the tag info and any other settings
 ++ title
@@ -128,9 +128,10 @@ Functionality
 ++ when installing, the zip is extracted to a folder
 + permits to have versions
 + deletes previous versions to save space
-+ library can be created by users
-+ library can be exported by user as zip file
-+ libraries can be shared by IPFS
++ collection can be created by any user
++ multiple users can be permitted to update a collection
++ collection can be exported by user as zip file
++ collections can be shared by IPFS
 ++ IPFS for android: https://github.com/textileio/android-ipfs-lite
 
 
